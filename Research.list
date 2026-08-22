@@ -31,7 +31,6 @@ DOMAIN-KEYWORD,scifinder
 DOMAIN-KEYWORD,springer
 
 # 域名匹配
-DOMAIN-SUFFIX,scienceDIRECT.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,manual.gromacs.org
@@ -104,4 +103,35 @@ DOMAIN-SUFFIX,jhu.edu
 DOMAIN-SUFFIX,uni-bielefeld.de
 DOMAIN-SUFFIX,un.org
 
+# 从规则.docx补充（已去重）
+# 关键词匹配
+DOMAIN-KEYWORD,wiley.com
+DOMAIN-KEYWORD,rsc.org
+DOMAIN-KEYWORD,els-cdn.com
+DOMAIN-KEYWORD,elsevier.com
+DOMAIN-KEYWORD,pubs.acs.org
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,pubs
+DOMAIN-KEYWORD,jd
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,360buyimg
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,scifinder-n
 
+# 域名匹配
+DOMAIN-SUFFIX,iresearchbook.cn
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+DOMAIN-SUFFIX,aip.org
+DOMAIN-SUFFIX,cas.org
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,icevirtuallibrary.com
+DOMAIN-SUFFIX,imf.org
+DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,karger.com
+DOMAIN-SUFFIX,myilibrary.com
+DOMAIN-SUFFIX,oxfordartonline.com
+DOMAIN-SUFFIX,oxfordbibliographies.com
+DOMAIN-SUFFIX,oxfordmusiconline.com
+DOMAIN-SUFFIX,westlaw.com
+DOMAIN-SUFFIX,worldbank.org
