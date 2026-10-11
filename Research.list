@@ -30,6 +30,7 @@ DOMAIN-KEYWORD,acs
 DOMAIN-KEYWORD,cas
 DOMAIN-KEYWORD,scifinder
 DOMAIN-KEYWORD,springer
+DOMAIN-KEYWORD,api-free.deepl.com
 
 # 域名匹配
 DOMAIN-SUFFIX,springer.com
